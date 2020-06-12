@@ -103,7 +103,7 @@ public class Main {
 					System.exit(0);
 				}
 			} catch(Exception e) {
-				System.out.println(errorMsg + "\2");
+				System.out.println(errorMsg + "/main0");
 				e.printStackTrace();
 			}
 		}
